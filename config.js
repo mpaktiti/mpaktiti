@@ -14,11 +14,11 @@ module.exports = {
   siteUrl: 'https://mpaktiti.netlify.com',
   social: {
     // leave the social media you do not want to appear as empty strings
-    twitter: '',
-    medium: '@maria_p',
+    twitter: 'mariap__',
+    medium: '',
     facebook: '',
-    github: '',
-    linkedin: '',
+    github: 'mpaktiti',
+    linkedin: 'maria-paktiti',
     instagram: '',
   },
 }
