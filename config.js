@@ -11,7 +11,7 @@ module.exports = {
   author: 'Maria Paktiti',
   githubUrl: 'https://github.com/mpaktiti/mpaktiti',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'https://mpaktiti.netlify.com',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: '',
